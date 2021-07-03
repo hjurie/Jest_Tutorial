@@ -31,7 +31,7 @@ module.exports = {
 
 1. JEST의 소개와 간단한 사용법
 2. 유용한 Matcher [내용](https://jestjs.io/docs/expect)
-3. 비동기 코드 테스트
+3. 비동기 코드 테스트
 4. 테스트 전후 작업
 5. 목 함수(Mack Functions)
 6. 스냅샷
