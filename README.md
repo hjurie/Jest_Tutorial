@@ -33,5 +33,5 @@ module.exports = {
 2. 유용한 Matcher [내용](https://jestjs.io/docs/expect)
 3. 비동기 코드 테스트
 4. 테스트 전후 작업
-5. 목 함수(Mack Functions)
+5. 목 함수(Mock Functions) - 테스트를 위해 흉내만 내는 함수
 6. 스냅샷
