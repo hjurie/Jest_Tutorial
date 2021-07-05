@@ -17,21 +17,26 @@ yarn test 04/lifecycle
 
 0.  타입스크립트 적용하기
     <details>
+      <summary>Babel Usage</summary>
       <div>
-        [Using Babel](https://jestjs.io/docs/getting-started#using-babel)
 
-        ```
+        # https://jestjs.io/docs/getting-started#using-babel
+
         npm install -D babel-jest @babel/core @babel/preset-env
 
         // babel.config.js
         module.exports = {
           presets: [['@babel/preset-env', {targets: {node: 'current'}}]],
         };
-        ```
 
-        [Using Typescript](https://jestjs.io/docs/getting-started#using-typescript)
-
-        ```
+      </div>
+    </details>
+    <details>
+      <summary>Typescript Usage</summary>
+      <div>
+      
+        # https://jestjs.io/docs/getting-started#using-typescript
+                    
         npm install -D @babel/preset-typescript
 
         // babel.config.js
@@ -41,10 +46,9 @@ yarn test 04/lifecycle
             '@babel/preset-typescript',
           ],
         };
-        ```
 
-  </div>
-</details>
+      </div>
+    </details>
 
 1.  JEST의 소개와 간단한 사용법
 2.  [유용한 Matcher](https://jestjs.io/docs/expect)
