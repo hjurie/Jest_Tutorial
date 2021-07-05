@@ -3,6 +3,18 @@
 > 본 튜토리얼은 팀원에게 JEST 사용법을 전달하기 위해 `코딩앙마`님의 유투브 강좌를 보고 작성하였습니다.  
 > 재생목록 링크 : https://www.youtube.com/playlist?list=PLZKTXPmaJk8L1xCg_1cRjL5huINlP2JKt
 
+### 동작
+
+```bash
+# 해당 폴더 내부 모든 테스트코드 동작
+yarn test 01
+
+# 해당 폴더 특정 테스트코드 동작
+yarn test 04/lifecycle
+```
+
+### 목차
+
 0.  타입스크립트 적용하기
     <details>
       <div>
