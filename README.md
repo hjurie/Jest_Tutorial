@@ -39,5 +39,5 @@
 3.  비동기 코드 테스트
 4.  테스트 전후 작업
 5.  목 함수(Mock Functions) - 테스트를 위해 흉내만 내는 함수
-6.  <a href="https://github.com/WebchemistGenn/Jest_Tutorial_React" target="_blank">Jest Tutorial for React</a>
-7.  Jest Tutorial for Node(NestJS)
+6.  <a href="https://github.com/WebchemistGenn/Jest_Tutorial_React" target="_blank">Tutorial for React Jest </a>
+7.  Tutorial for Node(NestJS) Jest
